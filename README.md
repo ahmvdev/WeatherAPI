@@ -12,8 +12,7 @@ Fetches information from the Visual Crossing API and displays it accordingly.
 ### 🎥 Video Demo
 
 
-
-https://github.com/user-attachments/assets/67a56f77-cb4b-4f6a-9516-d1544d8e5760
+![0723](https://github.com/user-attachments/assets/66f35c66-a0df-44cd-8f5d-0ccc97a03fac)
 
 
 
