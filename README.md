@@ -18,7 +18,7 @@ Fetches information from the Visual Crossing API and displays it accordingly.
 
 ### 🌐 Live Demo
 
-[**Check out the live demo**](https://weather-api-lovat-mu.vercel.app/)
+[**Check out the live demo**](https://weather-api-green-tau.vercel.app/)
 
 ---
 
