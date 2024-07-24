@@ -1,6 +1,6 @@
 # ⚡ WeatherAPI
 
-Fetches information from the Visual Crossing API and displays it accordingly. 
+Fetches information from the Visual Crossing API and displays it accordingly.  
 
 ## What I Learned
 
