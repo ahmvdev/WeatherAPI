@@ -1,7 +1,7 @@
 # ⚡ WeatherAPI
 
 Fetches information from the Visual Crossing API and displays it accordingly.  
-
+ 
 ## What I Learned
 
 - Familiarized myself with `async` & `await`
